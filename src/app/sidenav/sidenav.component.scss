@@ -1,0 +1,44 @@
+.sidnav-top{
+  background: linear-gradient(90deg, rgba(8, 131, 149, 0.16) 0%, rgba(8, 131, 149, 0.24) 100%), #FFFFFF;
+  border-radius: 24px 24px 0px 0px;
+}
+
+.left-ul{
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.i-help{
+  margin-top: 80px;
+
+}
+.left-ul li:hover{
+  border-radius: 7px;
+  background: linear-gradient(90deg, rgba(8, 131, 149, 0.16) 0%, rgba(8, 131, 149, 0.24) 100%),
+  linear-gradient(0deg, #FFFFFF, #FFFFFF);
+
+}
+
+.left-ul a:hover{
+  color:#292A32;
+
+}
+
+.rigth-btns button{
+  color:#fff;
+  background-color: #0e285c;
+}
+
+
+
+.lists-table{
+  color:#292A32;
+
+}
+
+.table-head{
+  background-color:hsl(226, 29%, 74%);
+
+
+
+}
